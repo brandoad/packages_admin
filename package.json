@@ -1,7 +1,5 @@
 
 {
-	"version": "1.0.0",
-	"private": true,
 	"devDependencies": {
 		"@types/bootstrap": "5.2.9",
 		"@types/datatables.net": "1.10.23",
